@@ -1,1 +1,2 @@
 # Wiper_system
+Automatic Wipers can be understood as smart wipers that automatically turn on sensing rain, and adjust their speed as per the intensity of rainfall. Most automatic wipers use a sensor that is placed behind the windshield. When it rains, the sensor beams out infrared light that is reflected back at different angles based upon the intensity of water droplets falling on the windshield. The more the rain, the less the light is reflected. Based on the amount of light reflected, the system activates the wiper and controls its speed as well.
